@@ -1,0 +1,29 @@
+{
+  "name": "myserve",
+  "version": "1.0.0",
+  "description": "Universal service connection platform with landing page and Todo Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "dev": "python3 -m http.server 3000",
+    "serve": "python3 -m http.server"
+  },
+  "keywords": [
+    "landing-page",
+    "todo",
+    "services",
+    "universal",
+    "web-app",
+    "vanilla-js"
+  ],
+  "author": "MyServe",
+  "license": "MIT",
+  "homepage": "https://github.com/Pn7Hao/MyServe#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pn7Hao/MyServe.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Pn7Hao/MyServe/issues"
+  }
+}
